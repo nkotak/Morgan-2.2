@@ -1,2 +1,3 @@
-# Morgan-2.2
-Morgan AI
+# Morgan-AI
+Morgan2.5 - Built with Tensorflow 1.15
+Morgan Mk42 - Built with Tensorflow 2.0
